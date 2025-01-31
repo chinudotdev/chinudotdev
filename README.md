@@ -3,7 +3,7 @@
 🚀 Full-stack Developer | DevOps Enthusiast | Indie Maker
 
 👀 I’m interested in…
-- Web development (TypeScript, Go
+- Web development (TypeScript, Go)
 - DevOps, containerization, and self-hosting
 - Distributed systems and high-performance computing
 - Open-source projects and developer tooling
